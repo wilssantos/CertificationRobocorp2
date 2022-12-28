@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.7.5 on win32)" generated="20221222 12:56:58.111" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\wills\.vscode\extensions\robocorp.robotframework-lsp-1.7.3\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Get csv url">
+<msg timestamp="20221222 12:56:59.301" level="FAIL">No keyword with name 'Get csv url' found.</msg>
+<status status="FAIL" starttime="20221222 12:56:59.301" endtime="20221222 12:56:59.302"/>
+</kw>
+<kw name="Open the order site">
+<status status="NOT RUN" starttime="20221222 12:56:59.306" endtime="20221222 12:56:59.306"/>
+</kw>
+<kw name="Fill in the order form using the data from the csv file">
+<status status="NOT RUN" starttime="20221222 12:56:59.308" endtime="20221222 12:56:59.308"/>
+</kw>
+<kw name="Name and make the ZIP">
+<status status="NOT RUN" starttime="20221222 12:56:59.311" endtime="20221222 12:56:59.311"/>
+</kw>
+<kw name="Delete original images">
+<status status="NOT RUN" starttime="20221222 12:56:59.313" endtime="20221222 12:56:59.313"/>
+</kw>
+<kw name="Log out and close the browser">
+<status status="NOT RUN" starttime="20221222 12:56:59.315" endtime="20221222 12:56:59.315"/>
+</kw>
+<status status="PASS" starttime="20221222 12:56:58.158" endtime="20221222 12:57:00.195"/>
+</kw>
+<status status="PASS" starttime="20221222 12:56:58.157" endtime="20221222 12:57:00.195"/>
+</test>
+<status status="PASS" starttime="20221222 12:56:58.113" endtime="20221222 12:57:00.197"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
